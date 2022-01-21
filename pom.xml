@@ -21,7 +21,7 @@
     <properties>
         <version.thorntail>${project.version}</version.thorntail>
         <version.thorntail.fraction-plugin>99</version.thorntail.fraction-plugin>
-        <version.h2>1.4.200</version.h2>
+        <version.h2>2.1.210</version.h2>
         <maven.compiler.source>1.9</maven.compiler.source>
         <maven.compiler.target>1.9</maven.compiler.target>
     </properties>
